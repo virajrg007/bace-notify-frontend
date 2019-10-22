@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bace-notify-frontend/static/css/main.b100e6da.chunk.css",
+    "main.js": "/bace-notify-frontend/static/js/main.f3b141fa.chunk.js",
+    "main.js.map": "/bace-notify-frontend/static/js/main.f3b141fa.chunk.js.map",
+    "runtime-main.js": "/bace-notify-frontend/static/js/runtime-main.a6632537.js",
+    "runtime-main.js.map": "/bace-notify-frontend/static/js/runtime-main.a6632537.js.map",
+    "static/js/2.ae4855e4.chunk.js": "/bace-notify-frontend/static/js/2.ae4855e4.chunk.js",
+    "static/js/2.ae4855e4.chunk.js.map": "/bace-notify-frontend/static/js/2.ae4855e4.chunk.js.map",
+    "index.html": "/bace-notify-frontend/index.html",
+    "precache-manifest.6623049c869ed39cb4383c0cb3f364f3.js": "/bace-notify-frontend/precache-manifest.6623049c869ed39cb4383c0cb3f364f3.js",
+    "service-worker.js": "/bace-notify-frontend/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/bace-notify-frontend/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/bace-notify-frontend/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6632537.js",
+    "static/js/2.ae4855e4.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.f3b141fa.chunk.js"
+  ]
+}
